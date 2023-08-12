@@ -28,7 +28,7 @@ jobs:
         cache: 'npm'
     - run: npm install
     - run: npm run test:unit
-    - run: echo "DimitarGyuchev" 
+    - run: echo "DimitarGyurchev" 
     
   deploy:
     runs-on: ubuntu-latest
